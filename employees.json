@@ -1,0 +1,38 @@
+{"Employee": [
+    {
+        "Name":"Anwar",
+        "DOB":"15.06.1994",
+        "Height": 168,
+        "City": "Ernakulam",
+        "State": "kerala"
+    },
+    {
+        "Name":"Mahima",
+        "DOB":"30.09.1997",
+        "Height": 157,
+        "City": "Chennai",
+        "State": "Tamilnadu"
+    },
+    {
+        "Name":"Vinod kumar",
+        "DOB":"27.01.1995",
+        "Height": 159,
+        "City": "Kannur",
+        "State": "kerala"
+    },
+    {
+        "Name":"Anusha",
+        "DOB":"08.05.1997",
+        "Height": 155,
+        "City": "Pondicherry",
+        "State": "Tamilnadu"
+    },
+    {
+        "Name":"Manoj",
+        "dob":"25.11.1995",
+        "height": 161,
+        "city": "Bangalore",
+        "state": "karnataka"
+    }
+  ]
+}
